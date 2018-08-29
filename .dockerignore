@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+*/temp*
+*/*/temp*
+temp?
+node_modules
+*/*/node_modules
