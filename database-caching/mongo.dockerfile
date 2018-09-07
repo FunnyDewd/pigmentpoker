@@ -9,4 +9,3 @@ FROM mongo:latest
 LABEL author="Victor Aponte"
 
 EXPOSE 27017
-
